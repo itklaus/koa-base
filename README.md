@@ -1,2 +1,2 @@
-# Learning Nodejs with a screencast:
+# Learning Node.js with a screencast:
 https://learn.javascript.ru/screencast/nodejs
