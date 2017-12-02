@@ -1,14 +1,22 @@
 {
-  "name": "Chat",
+  "name": "base-koa",
   "version": "0.0.1",
-  "private": true,
+  "description": "start app on koa",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {
-    "ejs": "*",
-    "express": "3.21.2",
-    "nconf": "^0.8.5",
-    "winston": "^2.4.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itklaus/node-first-app.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "itklaus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itklaus/node-first-app/issues"
+  },
+  "homepage": "https://github.com/itklaus/node-first-app#readme"
 }
