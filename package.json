@@ -1,5 +1,5 @@
 {
-  "name": "base-koa",
+  "name": "koa-base",
   "version": "0.0.1",
   "description": "start app on koa",
   "main": "index.js",
